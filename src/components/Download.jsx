@@ -8,8 +8,8 @@ const Download = () => {
     <div className={`${styles.section} ${styles.bgWhite}`}>
       <div className={`${styles.subSection} flex-col text-center`}>
         <div>
-          <h1 className={`${styles.h1Text} ${styles.blackText}`}>Choose the days to Trade</h1>
-          <p className={`${styles.pText} ${styles.blackText}`}>Try for Free</p>
+          <h1 className={`${styles.h1Text} ${styles.blackText}`}>High Acuracy </h1>
+          <p className={`${styles.pText} ${styles.blackText}`}>Zero Lag Time</p>
         </div>
         <button className={styles.btnPrimary}>Know More</button>
         <div className={styles.flexCenter}>

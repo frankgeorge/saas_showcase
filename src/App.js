@@ -13,22 +13,22 @@ const App = () => {
         banner="banner"
       />
       <SectionWrapper 
-        title="Experience The New Way of Trade Automation"
-        description="Simple Interface to create Strategies"
+        title="Seamless Integration of brokers through API"
+        description="Easy to use"
         mockupImg={assets.second}
         reverse
       />
       <Features />
       <SectionWrapper 
-        title="Experience The New Way of Trade Automation"
-        description="Simple Interface to create Strategies"
+        title="Superfast Execution"
+        description="Determine Entry and Exit criteria with ease"
         mockupImg={assets.third}
         reverse
       />
       <SectionWrapper 
-        title="Simple Interface to create Strategies"
-        description="Simple Interface to create Strategies"
-        mockupImg={assets.fourth}
+        title="Automate with a single click"
+        description="Pre-train strategies and excute on select date and time"
+        mockupImg={assets.fifth}
         banner="banner02"
       />
       <Download />
